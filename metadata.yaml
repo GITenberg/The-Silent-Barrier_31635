@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1627
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31635#The-Silent-Barrier
 gutenberg_issued: '2010-03-14'
 gutenberg_type: Text
 identifiers:
