@@ -1,0 +1,39 @@
+_repo: The-Silent-Barrier_31635
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Parsons, A. W.
+    gutenberg_agent_id: '35375'
+    url: http://www.gutenberg.org/2009/agents/35375
+  - agent_name: McFall, J. V.
+    gutenberg_agent_id: '6904'
+    url: http://www.gutenberg.org/2009/agents/6904
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tracy, Louis
+    alias: Holmes, Gordon
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '1627'
+    url: http://www.gutenberg.org/2009/agents/1627
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
+description: ''
+gutenberg_issued: '2010-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31635'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Switzerland -- Fiction'
+title: The Silent Barrier
+url: http://www.gutenberg.org/ebooks/31635
